@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Resources {
+public class Resources {
+
 }
